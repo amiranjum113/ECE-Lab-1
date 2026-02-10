@@ -162,7 +162,7 @@ D as the least-significant bit.</string>
           </testData>
         </entry>
       </elementAttributes>
-      <pos x="1000" y="300"/>
+      <pos x="1120" y="220"/>
     </visualElement>
     <visualElement>
       <elementName>And</elementName>
@@ -203,39 +203,11 @@ D as the least-significant bit.</string>
       <p2 x="720" y="320"/>
     </wire>
     <wire>
-      <p1 x="460" y="480"/>
-      <p2 x="800" y="480"/>
-    </wire>
-    <wire>
-      <p1 x="700" y="560"/>
-      <p2 x="800" y="560"/>
-    </wire>
-    <wire>
-      <p1 x="880" y="580"/>
-      <p2 x="940" y="580"/>
-    </wire>
-    <wire>
-      <p1 x="720" y="440"/>
-      <p2 x="800" y="440"/>
-    </wire>
-    <wire>
-      <p1 x="480" y="600"/>
-      <p2 x="800" y="600"/>
-    </wire>
-    <wire>
-      <p1 x="880" y="460"/>
-      <p2 x="980" y="460"/>
-    </wire>
-    <wire>
       <p1 x="480" y="320"/>
       <p2 x="480" y="340"/>
     </wire>
     <wire>
       <p1 x="480" y="380"/>
-      <p2 x="480" y="600"/>
-    </wire>
-    <wire>
-      <p1 x="480" y="600"/>
       <p2 x="480" y="700"/>
     </wire>
     <wire>
@@ -260,10 +232,6 @@ D as the least-significant bit.</string>
     </wire>
     <wire>
       <p1 x="720" y="380"/>
-      <p2 x="720" y="440"/>
-    </wire>
-    <wire>
-      <p1 x="720" y="440"/>
       <p2 x="720" y="700"/>
     </wire>
     <wire>
@@ -271,19 +239,11 @@ D as the least-significant bit.</string>
       <p2 x="960" y="800"/>
     </wire>
     <wire>
-      <p1 x="980" y="460"/>
-      <p2 x="980" y="680"/>
-    </wire>
-    <wire>
       <p1 x="460" y="300"/>
       <p2 x="460" y="320"/>
     </wire>
     <wire>
       <p1 x="460" y="320"/>
-      <p2 x="460" y="480"/>
-    </wire>
-    <wire>
-      <p1 x="460" y="480"/>
       <p2 x="460" y="700"/>
     </wire>
     <wire>
@@ -308,15 +268,7 @@ D as the least-significant bit.</string>
     </wire>
     <wire>
       <p1 x="700" y="320"/>
-      <p2 x="700" y="560"/>
-    </wire>
-    <wire>
-      <p1 x="700" y="560"/>
       <p2 x="700" y="700"/>
-    </wire>
-    <wire>
-      <p1 x="940" y="580"/>
-      <p2 x="940" y="680"/>
     </wire>
   </wires>
   <measurementOrdering/>
